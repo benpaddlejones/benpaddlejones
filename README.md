@@ -1,11 +1,11 @@
 # Hi there 👋
-I'm Head Teacher Technologies at [Tempe High School](https://tempe-h.schools.nsw.gov.au/)
+I'm Head Teacher Technologies at [Tempe High School](https://tempe-h.schools.nsw.gov.au/) and these are [our repositories](https://github.com/TempeHS)!
 
 ## 🔭 I’m currently working on...
-Forking Harvards CS50 for a high school context
+A servo based two wheel Arduino robot
 
 ## 🚀 My Major projects
-- Low cost document camera
+- Low-cost document camera
 - Wiimote Project
 - [Kaldor VR Expperience](https://github.com/TempeHS/Kaldor---Your-Public-Art-Project-2019---VR-Experience)
 - Budget mechatronics project
