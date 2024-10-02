@@ -1,8 +1,8 @@
 # Hi there 👋
-I'm Head Teacher Technologies at [Tempe High School](https://tempe-h.schools.nsw.gov.au/) and these are [our repositories](https://github.com/TempeHS)!
+I'm Head Teacher Technologies at [Tempe High School](https://tempe-h.schools.nsw.gov.au/), and these are [our repositories](https://github.com/TempeHS)!
 
 ## 🔭 I’m currently working on...
-A servo based two wheel Arduino robot
+Progressive Web App's in Python and two-wheeled mechatronics using Arduino.
 
 ## 🚀 My Major projects
 - Low-cost document camera
