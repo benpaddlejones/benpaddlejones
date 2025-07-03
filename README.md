@@ -15,8 +15,8 @@ I'm Head Teacher Technologies at [Tempe High School](https://tempe-h.schools.nsw
 - Budget mechatronics project
 
 ### :fire: My Stats :
-![Lehasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=benpaddlejones&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benpaddlejones)](https://git.io/streak-stats)
+![benpaddlejones's GitHub stats](https://github-readme-stats.vercel.app/api?username=benpaddlejones&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benpaddlejones&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
