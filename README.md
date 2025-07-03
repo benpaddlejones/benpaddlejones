@@ -14,6 +14,14 @@ I'm Head Teacher Technologies at [Tempe High School](https://tempe-h.schools.nsw
 - [Kaldor VR Experience](https://github.com/TempeHS/Kaldor---Your-Public-Art-Project-2019---VR-Experience)
 - Budget mechatronics project
 
+### :fire: My Stats :
+![Lehasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehasaS&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lehasaS)](https://git.io/streak-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehasaS&layout=compact)](https://github.com/lehasaS/github-readme-stats)
+
 ## ⚡ Skills:
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
